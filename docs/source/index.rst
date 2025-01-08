@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Thế giới trang sức, đồng hồ chế tác vàng & kim cương cao cấp
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Donghochetac net <https://donghochetac.net/>`_ là điểm đến lý tưởng cho những tín đồ yêu thích đồng hồ chế tác Replica 1:1 và trang sức cao cấp. Chúng tôi chuyên cung cấp các sản phẩm đồng hồ tinh xảo, chế tác tỉ mỉ, đảm bảo độ hoàn thiện cao, mang lại giá trị vượt trội với các chi tiết hoàn hảo. Bên cạnh đó, trang sức cao cấp tại đây cũng được lựa chọn kỹ lưỡng, làm từ những chất liệu đắt giá, mang đến vẻ đẹp sang trọng, thanh lịch. Mỗi sản phẩm tại Donghochetac.net không chỉ là phụ kiện mà còn là biểu tượng của phong cách và sự đẳng cấp.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 588 Đ. Bưởi, Vĩnh Phú, Ba Đình, Hà Nội, Vietnam
 
-   This project is under active development.
+Phone: 0395181160
 
-Contents
---------
+Email: donghochetac.net@gmail.com
 
-.. toctree::
+Website: https://donghochetac.net/ 
 
-   usage
-   api
+#donghothuysi #donghothuysy #chetacdongho #donghochetac #donghohublot #donghorolex #donghokimcuong #donghoomega #donghovangkhoi #chetactrangsuc
